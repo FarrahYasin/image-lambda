@@ -10,11 +10,17 @@
 <img width="956" alt="lab-17" src="https://github.com/FarrahYasin/image-lambda/assets/117269271/6ba13223-0220-4929-a46b-b6a035a825bc">
 
 >steps to solve this lab:
+>
 >create S3 on AWS
+>
 >create Lambda function on AWS
+>
 >add the trigger to lambda function
+>
 >write code to return image.json
+>
 >upload zip file that contain index.js,node moduels,package.json,package-lock.json
+>
 >try to upload new image in S3
 
 
